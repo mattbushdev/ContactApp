@@ -1,0 +1,11 @@
+bin/
+obj/
+/pacakges/
+
+#MSTEST test resukts
+[Tt]est[Rr]esults*/
+
+#NuGet Packages
+*.nupkg
+
+node_modules/
